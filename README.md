@@ -12,6 +12,7 @@ Created as a personal application.  Play a desktop GUI game of Connect Four.
 ##Technologies
 
 C++
+
 Allegro
 
 ##Repo Notes
